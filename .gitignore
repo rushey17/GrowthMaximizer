@@ -1,0 +1,18 @@
+node_modules/
+
+build/
+dist/
+
+package-lock.json
+
+# Ignore yarn.lock (if using yarn)
+yarn.lock
+
+# Ignore .env files (containing environment variables)
+.env
+
+# Ignore .DS_Store (MacOS) and Thumbs.db (Windows)
+.DS_Store
+Thumbs.db
+
+# Add any other files or directories you want to ignore (e.g., temporary files, logs, etc.)
